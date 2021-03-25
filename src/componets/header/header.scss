@@ -1,0 +1,75 @@
+.header{
+  background-image: url(../../images/desktop/header-bg1.jpg);
+  background-position:  center right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black;
+  min-height: 100vh;
+  position: relative;
+  &__main-box{
+    display: flex;
+    justify-content: flex-start;
+    margin: 174px 0 0 100px;
+  }
+  &__img-box{
+    position: absolute;
+    bottom: 0;
+    right: 80px;
+  }
+  &__stars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  &__arrow{
+    position: absolute;
+    bottom: 20px;
+    left: 30%;
+  }
+  &__navbar{
+    width: 100vw;
+    background: linear-gradient(90deg, rgba(0,0,0,0.908000700280112) 0%, rgba(207,166,115,0.87718837535014) 90%, rgba(0,0,0,1) 100%);
+    position: sticky;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px 120px 8px 0;
+      &-item{
+        font-size: 20px;
+        margin-left: 40px;
+        text-transform: uppercase;
+        cursor: pointer;
+        padding: 5px 10px;
+        border-bottom: 3px solid transparent;
+        transition: all 0.4s;
+          &:hover{
+            border-bottom: 3px solid black;
+          
+          }
+      }
+  }
+  &__sub-title{
+    font-size: 32px;
+     border-radius: 10px;
+     background: linear-gradient(90deg, rgba(0,0,0,0.908000700280112) 0%, rgba(207,166,115,0.87718837535014) 50%, rgba(0,0,0,1) 100%);
+     text-align: center;
+     padding: 20px 35px;
+     border: 0.1px solid rgba(207,166,115,0.87718837535014);
+     border-radius: 10px;
+     text-transform: uppercase;
+     transform: rotate(12deg);
+
+
+  }
+   &__title{
+     font-size: 145px;
+     color:  rgba(207,166,115,0.87718837535014);
+     text-transform: uppercase;
+      &-box{
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+        align-items: center;
+      }
+   }
+}
