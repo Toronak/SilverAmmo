@@ -1,0 +1,44 @@
+.footer{
+  background-color: rgb(138, 120, 82);
+  padding: 25px 20px;
+    &__box{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    &__social-box{
+      display: flex;
+     
+    }
+    &__contacts-box{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    &__address-box{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    &__address-text{
+      font-size: 16px;
+    }
+    &__contacts-tel{
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+        &>img{
+          margin-right: 10px;
+        }
+    }
+    &__social-item{
+      margin-right: 10px;
+        &:last-child{
+          margin-right: 0;
+        }
+    }
+}
