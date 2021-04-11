@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SilverAmmo/static/css/main.304f96e3.chunk.css",
+    "main.js": "/SilverAmmo/static/js/main.12b4126c.chunk.js",
+    "main.js.map": "/SilverAmmo/static/js/main.12b4126c.chunk.js.map",
+    "runtime-main.js": "/SilverAmmo/static/js/runtime-main.a5f069ce.js",
+    "runtime-main.js.map": "/SilverAmmo/static/js/runtime-main.a5f069ce.js.map",
+    "static/js/2.b9a443cc.chunk.js": "/SilverAmmo/static/js/2.b9a443cc.chunk.js",
+    "static/js/2.b9a443cc.chunk.js.map": "/SilverAmmo/static/js/2.b9a443cc.chunk.js.map",
+    "index.html": "/SilverAmmo/index.html",
+    "static/css/main.304f96e3.chunk.css.map": "/SilverAmmo/static/css/main.304f96e3.chunk.css.map",
+    "static/js/2.b9a443cc.chunk.js.LICENSE.txt": "/SilverAmmo/static/js/2.b9a443cc.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/SilverAmmo/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/header.scss": "/SilverAmmo/static/media/header-bg.28ecbf5c.jpg",
+    "static/media/img-card1.5cf61507.jpg": "/SilverAmmo/static/media/img-card1.5cf61507.jpg",
+    "static/media/img-card2.3903c8a3.jpg": "/SilverAmmo/static/media/img-card2.3903c8a3.jpg",
+    "static/media/img-card3.2d9f299f.jpg": "/SilverAmmo/static/media/img-card3.2d9f299f.jpg",
+    "static/media/img-card4.adb38d28.jpg": "/SilverAmmo/static/media/img-card4.adb38d28.jpg",
+    "static/media/sertification.scss": "/SilverAmmo/static/media/sertification-bg.486cf0e8.png",
+    "static/media/sertifikat.fbdf6589.png": "/SilverAmmo/static/media/sertifikat.fbdf6589.png",
+    "static/media/tel-icon.c9b1fc0b.svg": "/SilverAmmo/static/media/tel-icon.c9b1fc0b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5f069ce.js",
+    "static/js/2.b9a443cc.chunk.js",
+    "static/css/main.304f96e3.chunk.css",
+    "static/js/main.12b4126c.chunk.js"
+  ]
+}
