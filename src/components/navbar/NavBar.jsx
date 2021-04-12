@@ -29,36 +29,35 @@ function NavBar() {
             e.preventDefault();
             hero && hero.scrollIntoView({ behavior: "smooth", block: "start" });
             window.history.pushState("home", "home", "/home");
-          }}>home</a>
+          }}>shop</a>
         <a className='navbar-item' href="/"
           onClick={e => {
             let hero = document.getElementById("ammo");
             e.preventDefault();
             hero && hero.scrollIntoView({ behavior: "smooth", block: "start" });
             window.history.pushState("ammo", "ammo", "/ammo");
-          }}>catalog</a>
-        <a className='navbar-item' >store</a>
+          }}>blog</a>
         <a className='navbar-item' href="/"
           onClick={e => {
             let hero = document.getElementById("delivery");
             e.preventDefault();
             hero && hero.scrollIntoView({ behavior: "smooth", block: "start" });
             window.history.pushState("delivery", "delivery", "/delivery");
-          }}>delivery</a>
+          }}>products</a>
         <a className='navbar-item' href="/"
           onClick={e => {
             let hero = document.getElementById("certification");
             e.preventDefault();
             hero && hero.scrollIntoView({ behavior: "smooth", block: "start" });
             window.history.pushState("certification", "certification", "/certification");
-          }}>certification</a>
+          }}>description</a>
         <a className='navbar-item' href="/"
           onClick={e => {
             let hero = document.getElementById("contacts");
             e.preventDefault();
             hero && hero.scrollIntoView({ behavior: "smooth", block: "start" });
             window.history.pushState("contacts", "contacts", "/contacts");
-          }}>about</a>  
+          }}>contacts</a>  
       </div>
     </nav>
   )

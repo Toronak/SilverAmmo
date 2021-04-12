@@ -1,39 +1,27 @@
 .section2{
-  padding: 80px 20px;
+  padding: 20px 20px;
   background-color: rgb(175, 168, 154);
-  position: relative;
-  min-height: 100vh;
   &__container{
     max-width: 1700px;
     margin: 0 auto;
   }
   &__main-box{
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
   }
   &__content-box{
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    margin-bottom: 50px;
-    width: 40%;
-    &:last-child{
-      margin-bottom: 0;
-    }
-  }
-  &__arrow{
-    position: absolute;
-    bottom: -7%;
-    right: 5%;
-    z-index: 80;
+    flex-grow: 1;
   }
   &__text{
-    font-size: 23px;
-    color: rgba(0, 0, 0, 0.281);
-    margin-top: 20px;
+    font-size: 43px;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
   }
   &__title{
     text-align: left;

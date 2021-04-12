@@ -16,7 +16,7 @@ function Section1() {
   return (
     <section className='section1' id='ammo'>
       <div className='section1__container'>
-        <h2 className='section1__title'>catalog</h2>
+        <h2 className='section1__title'>products</h2>
         <div className='section1__main-box'>
         {cardArr.map(card => <Card key={card.id} {...card} />)}
         </div>

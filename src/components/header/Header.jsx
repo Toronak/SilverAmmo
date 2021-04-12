@@ -7,22 +7,7 @@ function Header() {
     <header className='header' id='home'>
       <div className='header__main-box'>
       <div className='header__title-box'>
-        <div className='header__stars'>
-          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 426.667 426.667" fill="rgba(252,146,7,1)">
-            <polygon fill="rgba(218, 165, 32)" points="213.333,10.441 279.249,144.017 426.667,165.436 320,269.41 345.173,416.226 213.333,346.91 
-	              81.485,416.226 106.667,269.41 0,165.436 147.409,144.017 "/>
-          </svg>
-          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 426.667 426.667" fill="rgba(252,146,7,1)">
-            <polygon fill="rgba(218, 165, 32)" points="213.333,10.441 279.249,144.017 426.667,165.436 320,269.41 345.173,416.226 213.333,346.91 
-	              81.485,416.226 106.667,269.41 0,165.436 147.409,144.017 "/>
-          </svg>
-          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 426.667 426.667" fill="rgba(252,146,7,1)">
-            <polygon fill="rgba(218, 165, 32)" points="213.333,10.441 279.249,144.017 426.667,165.436 320,269.41 345.173,416.226 213.333,346.91 
-	              81.485,416.226 106.667,269.41 0,165.436 147.409,144.017 "/>
-          </svg>
-        </div>
-        <h1 className='header__title'>siver ammo</h1>
-        <p className='header__sub-title'>we made,you shoot</p>
+        <h1 className='header__title'>горизонтальный слайдер на 100vh,4 фото</h1>
       </div>
       </div>
       <div className='header__arrow'>
