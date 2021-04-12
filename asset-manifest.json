@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SilverAmmo/static/css/main.304f96e3.chunk.css",
-    "main.js": "/SilverAmmo/static/js/main.12b4126c.chunk.js",
-    "main.js.map": "/SilverAmmo/static/js/main.12b4126c.chunk.js.map",
+    "main.css": "/SilverAmmo/static/css/main.ad7cb166.chunk.css",
+    "main.js": "/SilverAmmo/static/js/main.536c3b43.chunk.js",
+    "main.js.map": "/SilverAmmo/static/js/main.536c3b43.chunk.js.map",
     "runtime-main.js": "/SilverAmmo/static/js/runtime-main.a5f069ce.js",
     "runtime-main.js.map": "/SilverAmmo/static/js/runtime-main.a5f069ce.js.map",
     "static/js/2.b9a443cc.chunk.js": "/SilverAmmo/static/js/2.b9a443cc.chunk.js",
     "static/js/2.b9a443cc.chunk.js.map": "/SilverAmmo/static/js/2.b9a443cc.chunk.js.map",
     "index.html": "/SilverAmmo/index.html",
-    "static/css/main.304f96e3.chunk.css.map": "/SilverAmmo/static/css/main.304f96e3.chunk.css.map",
+    "static/css/main.ad7cb166.chunk.css.map": "/SilverAmmo/static/css/main.ad7cb166.chunk.css.map",
     "static/js/2.b9a443cc.chunk.js.LICENSE.txt": "/SilverAmmo/static/js/2.b9a443cc.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/SilverAmmo/static/media/RobotoMono-Regular.418a8f9f.ttf",
     "static/media/header.scss": "/SilverAmmo/static/media/header-bg.28ecbf5c.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.a5f069ce.js",
     "static/js/2.b9a443cc.chunk.js",
-    "static/css/main.304f96e3.chunk.css",
-    "static/js/main.12b4126c.chunk.js"
+    "static/css/main.ad7cb166.chunk.css",
+    "static/js/main.536c3b43.chunk.js"
   ]
 }
